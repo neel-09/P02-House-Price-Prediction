@@ -25,11 +25,11 @@ Model Evaluation: The model's performance is measured using standard regression 
 # 4. Results
 The trained Linear Regression model provides a solid baseline for house price prediction. The final performance on the test set is as follows:
 
-RMSE: [3.744]
+**RMSE: [3.744]**
 
 Interpretation: This is the average difference between our predicted price and the actual price, in thousands of dollars. For example, an RMSE of 3.744 means our predictions are, on average, off by about $3,744.
 
-R² Score: [0.799]
+**R² Score: [0.799]**
 
 Interpretation: This score, from 0 to 1, indicates how well our model's predictions fit the actual data. An R² of 0.799 means the model explains about 80% of the variance in house prices.
 
