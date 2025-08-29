@@ -47,7 +47,7 @@ To run this project, you need to have Python and the required libraries installe
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/[your-username]/House-Price-Prediction.git
+git clone https://github.com/neel-09/House-Price-Prediction.git
 ```
 
 **Navigate to the project directory:**
